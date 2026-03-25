@@ -1,7 +1,7 @@
 ## Matheus M. Alfradique
-*Backend Python Developer | AWS Data Engineer | São Paulo, Brazil | [matheus.alfradique@usp.br](mailto:matheus.alfradique@usp.br) | +55 31 99867-7948 | [linkedin](https://www.linkedin.com/in/matheusalfra)*
+*Full-stack Python Developer | AWS Data Engineer | São Paulo, Brazil | [matheus.alfradique@usp.br](mailto:matheus.alfradique@usp.br) | +55 31 99867-7948 | [linkedin](https://www.linkedin.com/in/matheusalfra)*
 
-Backend Python developer with strong AWS data platform experience (Lambda, Step Functions, S3, Athena, Glue). Built production-grade Python libraries and reusable orchestration components used across 18+ pipelines, reducing cost by 42% and processing time by 70%. Applying Pythonic principles (clean object design, protocols, typing, and maintainable abstractions) to build reliable backend services and cloud-native systems.
+Full-stack Python developer with strong AWS data platform experience (Lambda, Step Functions, S3, Athena, Glue). Built production-grade Python libraries and reusable orchestration components used across 18+ pipelines, reducing cost by 42% and processing time by 70%. Applying Pythonic principles (clean object design, protocols, typing, and maintainable abstractions) to build reliable backend services and cloud-native systems.
 
 ***
 
